@@ -1,3 +1,3 @@
 # ProyectoEjemplo
 
-Autor: Arturo Sacramento Lopez
+Autor: Gonzalo Córdova 
